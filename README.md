@@ -2,7 +2,10 @@
 
 > **L1 platform skeleton — code release pending §11 gates of the companion paper.**
 
-[![Paper DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20053545.svg)](https://doi.org/10.5281/zenodo.20053545)
+[![Paper DOI](https://img.shields.io/badge/Paper%20DOI-10.5281%2Fzenodo.20053545-1682d4)](https://doi.org/10.5281/zenodo.20053545)
+[![Status](https://img.shields.io/badge/status-pending%20%C2%A711%20gates-orange)](https://github.com/doorm-ai/WorldModel-OS-governance#three-release-gates-per-11-of-the-paper)
+[![Last Commit](https://img.shields.io/github/last-commit/doorm-ai/WorldModel-OS)](https://github.com/doorm-ai/WorldModel-OS/commits/main)
+[![Stars](https://img.shields.io/github/stars/doorm-ai/WorldModel-OS?style=social)](https://github.com/doorm-ai/WorldModel-OS/stargazers)
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0--or--later-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
 
 This repository is reserved for the **L1 platform skeleton** of the **DOORM WorldModel-OS** architecture — a hybrid local/cloud operating system for auditable agentic world models.
